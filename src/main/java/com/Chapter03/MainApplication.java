@@ -1,9 +1,13 @@
-package com.Chapter02;
+package com.Chapter03;
+
+import com.Chapter02.BankStatementAnalyzer;
+import com.Chapter02.BankStatementCSVParser;
+import com.Chapter02.BankStatementParser;
 
 public class MainApplication {
     public static void main(String[] args) throws Exception {
 
-        final BankStatementAnalyzer bankStatementAnalyzer
+        final com.Chapter02.BankStatementAnalyzer bankStatementAnalyzer
                 = new BankStatementAnalyzer();
 
         final BankStatementParser bankStatementParser
