@@ -1,6 +1,5 @@
-package com;
+package com.Chapter03;
 
-import com.Chapter02.BankTransaction;
 
 import java.time.Month;
 import java.util.List;

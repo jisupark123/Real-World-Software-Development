@@ -35,6 +35,11 @@
 
 .gradle/
 build/
+build.gradle
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
 
 
 # Gradle and Maven with auto-import

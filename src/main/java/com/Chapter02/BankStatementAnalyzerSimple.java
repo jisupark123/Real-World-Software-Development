@@ -1,4 +1,4 @@
-package com;
+package com.Chapter02;
 
 import java.nio.file.Files;
 import java.nio.file.Path;
